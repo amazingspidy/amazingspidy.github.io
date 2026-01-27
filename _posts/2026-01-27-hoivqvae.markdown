@@ -2,7 +2,7 @@
 layout: post
 title:  "Shape-Aware Discrete Motion Modeling for 3D Human–Object Interaction"
 date:   2026-01-04 09:00:00 +00:00
-image: /images/404.jpg
+image: /images/HOI_VQVAE.png
 categories: research
 author: "Kim Hyung-Min"
 authors: "<strong>Kim Hyung-Min</strong>, Kim Ji-Yeon, Tae-Hyun Oh"
