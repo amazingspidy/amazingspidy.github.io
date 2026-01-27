@@ -2,10 +2,13 @@
 layout: post
 title:  "Shape-Aware Discrete Motion Modeling for 3D Human–Object Interaction"
 date:   2026-02-04 09:00:00 +00:00
-image: 
+image: /images/404.jpg
 categories: research
-venue: "IPIU" 
-author: "Kim Hyung-Min, Kim Ji-Yeon, Tae-Hyun Oh"
-subtitle: "3D Human and Object Interactino Reconstuction using VQ-VAE"
+author: "Kim Hyung-Min"
+authors: "<strong>Kim Ji-Yeon</strong>, Tae-Hyun Oh"
+venue: "IPIU"
+arxiv: 
+code: 
+website: 
 ---
-First VQ-VAE framework that coherently models 3D HOI by incorporating object shape information, allowing the model to capture shape-aware interaction.
+We propose first VQ-VAE framework that coherently models 3D HOI by incorporating object shape information, allowing the model to capture shape-aware interaction.
